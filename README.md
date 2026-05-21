@@ -44,3 +44,14 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+---
+
+## 📊 GitHub Stats
+
+![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaima-bh-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-bh-dev&layout=compact&theme=tokyonight)
