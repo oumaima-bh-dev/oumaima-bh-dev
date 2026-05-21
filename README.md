@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Oumaima Bouhnane
 
-<!--
-**oumaima-bh-dev/oumaima-bh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer  
+🎨 HTML | CSS | Bootstrap | JavaScript | PHP | MySQL  
+🚀 Open to Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- Passionate about web development
+- Building modern and responsive websites
+- Currently improving my PHP & MySQL skills
+- Looking for internship opportunities
+
+---
+
+##  Technologies & Tools
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+##  Projects
+
+-  FootApp
+-  DigiTech
+-  Agence des annonces
+-  AtelierWeb
+-  Location voiture
+-  landing page 
+-  portfolio
+---
+
+## 🌐 Connect with me
+
+- LinkedIn:  www.linkedin.com/in/oumaimabouhnane
+- GitHub: github.com/oumaima-bh-dev
+
+---
+
+⭐ Thanks for visiting my profile!
