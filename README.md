@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oumaima Bouhnane</h1>
+<h1 align="center">Hi , I'm Oumaima Bouhnane</h1>
 <h3 align="center">Junior Web Developer from Morocco 🇲🇦</h3>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Junior Web Developer
-- 📍 Salé, Morocco
-- 🌱 Currently improving my PHP & MySQL skills
-- 💼 Open to internship and junior opportunities
-- 💡 Passionate about creating modern web applications
+-  Junior Web Developer
+-  Salé, Morocco
+-  Currently improving my PHP & MySQL skills
+-  Open to internship and junior opportunities
+-  Passionate about creating modern web applications
 
 ---
 
-## 🚀 Technologies
+##  Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode" />
