@@ -1,49 +1,73 @@
-# Hi 👋 I'm Oumaima Bouhnane
+<h1 align="center">Hi 👋, I'm Oumaima Bouhnane</h1>
+<h3 align="center">Junior Web Developer from Morocco 🇲🇦</h3>
 
-💻 Junior Web Developer  
-🎨 HTML | CSS | Bootstrap | JavaScript | PHP | MySQL  
-🚀 Open to Internship Opportunities  
-
----
-
-## 🌸 About Me
-
-- Passionate about web development
-- Building modern and responsive websites
-- Currently improving my PHP & MySQL skills
-- Looking for internship opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+Bootstrap;JavaScript+%7C+PHP+%7C+MySQL;Always+Learning+New+Technologies;Open+to+Internship+Opportunities" />
+</p>
 
 ---
 
-##  Technologies & Tools
+## 👩‍💻 About Me
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 Junior Web Developer
+- 📍 Salé, Morocco
+- 🌱 Currently improving my PHP & MySQL skills
+- 💼 Open to internship and junior opportunities
+- 💡 Passionate about creating modern web applications
 
 ---
 
-##  Projects
+## 🚀 Technologies
 
--  FootApp
--  DigiTech
--  Agence des annonces
--  AtelierWeb
--  Location voiture
--  landing page 
--  portfolio
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 ParaShop
+E-commerce platform for parapharmacies with product, customer and order management.
+
+### ⚽ FootApp
+Football field reservation platform.
+
+### 🏠 Gestion des Annonces
+Real estate management web application.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oumaima-bh-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima-bh-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
 ## 🌐 Connect with me
 
-- LinkedIn:  www.linkedin.com/in/oumaimabouhnane
-- GitHub: github.com/oumaima-bh-dev
+<p align="center">
+
+<a href="https://www.linkedin.com/in/oumaimabouhnane/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:oumaima.bouhnane.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
+<p align="center">
+
 ⭐ Thanks for visiting my profile!
 
-
-
+</p>
