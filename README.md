@@ -99,17 +99,7 @@ Real estate management web application.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=oumaima-bh-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-bh-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
