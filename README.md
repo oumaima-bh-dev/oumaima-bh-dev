@@ -32,8 +32,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:oumaima.bouhnane.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
@@ -121,15 +119,6 @@ Real estate management web application.
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oumaima-bh-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
 
 ---
 
